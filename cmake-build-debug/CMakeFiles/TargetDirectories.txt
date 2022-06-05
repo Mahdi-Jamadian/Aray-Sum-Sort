@@ -1,0 +1,3 @@
+G:/project/C/Aray Sum & Sort/cmake-build-debug/CMakeFiles/Aray_Sum___Sort.dir
+G:/project/C/Aray Sum & Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Aray Sum & Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
